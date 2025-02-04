@@ -188,6 +188,10 @@ When a vacancy exists in the office of legislative district central committee ch
 
 The filling of vacancies in the slate of candidates shall be by the County Central Committees, Legislative District Central Committees, and State Central Committee as provided by Idaho law.
 
+#### Section 6
+
+All Central Committees may hold meetings by gathering in a physical location, or by video conference. When a Central Committee meets by gathering in a physical location, a speakerphone and a telephone connection capable of conference calling shall be the minimum facility requirement. The Central Committee and its members shall be individually and severally responsible for any facilities, equipment, transportation, Internet, telephone company, and/or other charges required for their participation at or from a particular meeting location.
+
 ### Article IX: Other Committees
 
 #### Section 1: Finance Committee
@@ -252,7 +256,7 @@ The purpose of this committee is to review legislative proposals and make recomm
 
 #### Section 9
 
-The Chair shall have the power to form other committees by choice, or by the direction of the Executive Board, and appoint committee chairs, except as provided in these bylaws.
+The Chair shall have the power to form other committees by choice, or by the direction of the Executive Board, and appoint committee chairs, except as provided in these bylaws. All committees formed under these bylaws or at the direction of the Chair or the Executive Board shall meet either in physical locations, or via video conference.
 
 ### Article X: Finances and Accounting
 
