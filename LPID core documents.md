@@ -172,17 +172,21 @@ The State Central Committee shall in addition consist of all legislative distric
 
 #### Section 3: County Central Committee
 
-The County Central Committee in each county shall consist of the precinct committeemen representing the precincts within the county and the county chairman elected by the precinct committeemen. The precinct committeemen within each county shall meet at the county seat within 10 days after the primary election and at the time and date designated by the incumbent county chairman, and shall organize by electing a chairman, vice chairman, a secretary, a state committeeman, a state committeewoman, and such other officers as they may desire who shall hold office at the pleasure of the county central committee or until their successors are elected.
+The County Central Committee in each county shall consist of the precinct committeemen representing the precincts within the county, the BSMs resident in the county, and the county chairman elected by the committee members. The County Central Committee shall meet at the county seat within 10 days after the primary election and at the time and date designated by the incumbent county chairman, and shall organize by electing a chairman, vice chairman, a secretary, a state committeeman, a state committeewoman, and such other officers as they may desire who shall hold office at the pleasure of the county central committee or until their successors are elected.
 
 When a vacancy exists in the office of county central committee chairman, it shall be the duty of the state central committee chairman to call a meeting of the BSMs resident in that county, who shall proceed to elect a chairman of the county central committee for the balance of the unexpired term.
 
 The county central committee shall fill by appointment all vacancies that occur or exist in the office of precinct committeeman who shall be a qualified elector of the precinct.
 
+The quorum for meetings of the County Central Committee shall be two-thirds of the number of committee members present when the meeting is called to order. Notice of meetings of the County Central Committee must be sent to all committee members at least 7 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present.
+
 #### Section 4: Legislative District Central Committee
 
-The Legislative District Central Committee in each legislative district shall consist of the precinct committeemen representing the precincts within the legislative district, and the legislative district chairman elected by the precinct committeemen. The precinct committeemen within each legislative district shall meet within the legislative district within 11 days after the primary election, the meeting time and place to be designated by the incumbent legislative district chairman. At this meeting the precinct committeemen shall organize by electing a chairman, vice chairman, a secretary and such other officers as they may desire, who shall hold office at the pleasure of the legislative district central committee or until their successors are elected.
+The Legislative District Central Committee in each legislative district shall consist of the precinct committeemen representing the precincts within the legislative district, the BSMs resident in the legislative district, and the legislative district chairman elected by the committee members. The committee members shall meet within the legislative district within 11 days after the primary election, the meeting time and place to be designated by the incumbent legislative district chairman. At this meeting the precinct committeemen shall organize by electing a chairman, vice chairman, a secretary and such other officers as they may desire, who shall hold office at the pleasure of the legislative district central committee or until their successors are elected.
 
 When a vacancy exists in the office of legislative district central committee chairman, it shall be the duty of the state central committee chairman to call a meeting of the BSMs resident in that Legislative District, who shall proceed to elect a chairman of the legislative district central committee for the balance of the unexpired term.
+
+The quorum for meetings of the Legislative District Central Committee shall be two-thirds of the number of committee members present when the meeting is called to order. Notice of meetings of the Legislative District Central Committee must be sent to all committee members at least 7 days prior to a meeting, except that this notice requirement may be waived if all members of the committee are present.
 
 #### Section 5
 
