@@ -104,9 +104,9 @@ Regular Conventions shall be held each year, in the month of March, at a time an
 
 #### Section 2: National Convention Delegates
 
-In the event that a National Convention shall be held within 45 days following the state party Regular Convention, the Executive Board shall solicit the membership for nominees for delegates to the National Convention, and shall submit a preliminary delegate list to the national party no less than 45 days prior to the national convention. Final delegates shall then be selected at the Party Regular Convention.
+In the event that a National Convention shall be held within 45 days following the state party Regular Convention, the Executive Board shall solicit the membership for nominees for delegates to the National Convention, and shall submit a preliminary delegate list to the national party no less than 45 days prior to the national convention. Final delegates shall then be selected at the Party Regular Convention, or at a Delegate Appointment Convention.
 
-#### Section 3
+#### Section 3: Seasoning
 
 Convention attendees may not vote unless they were members in good standing of the Party for at least three months prior to the convention.
 
@@ -119,6 +119,10 @@ Quorum for Conventions shall be more than one‐half of the eligible members in 
 Special Conventions may be called for specific purposes upon the written request of at least one‐tenth of the membership; or upon a vote of the Executive Board, or the State Central Committee.
 
 The body calling the Special Convention shall make arrangements for the time and place of the Special Convention, with such time being at least 21 days after the date of the call. The Chair shall provide notice to the entire membership at least 14 days prior to the convention, including the specific purpose in such notice. No business except the specific purpose shall be conducted at such Special Conventions.
+
+#### Section 6: Delegate Appointment Conventions
+
+At the Regular Convention in an odd-numbered year, the convention may, by motion, choose to hold a Delegate Appointment Convention (DAC) to appoint Idaho delegates to the Libertarian National Convention (LNC) for the following year. The Executive Board shall make arrangements for the DAC between 46 days at the latest, and 4 months at the soonest, prior to the LNC for that year, at which the only permitted item of business is the nomination and appointment of Delegates and Alternates to said LNC. DACs may be held digitally. The rules for Seasoning and Quorum shall be the same for a DAC as for a Regular Convention, except that if the DAC is held digitally, those participating in the digital conference room shall be considered "in attendance," and not only those physically present in the room with the host.
 
 ### Article VI: Regional Party Organizations
 
